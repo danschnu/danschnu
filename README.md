@@ -25,7 +25,7 @@ Besonderes Interesse: **Backend & Datenbanken**.
 
 ---
 
-## 📂 Projekte
+## 📂 Projekte(in Vorbereitung)
 | Projekt | Kurzbeschreibung | Technologien |
 | --- | --- | --- |
 | **Tierverwaltung** | Verwaltung von Tieren mit Datei-Speicherung und GUI | Java, Swing |
