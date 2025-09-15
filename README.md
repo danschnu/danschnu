@@ -23,12 +23,19 @@ Analytisch, strukturiert und lösungsorientiert. Ich lerne schnell, arbeite gern
 komplexe Anforderungen in sauberen, wartbaren Code zu übersetzen.  
 Besonderes Interesse: **Backend & Datenbanken**.
 
+
+---
+
+## 📂 Projekte
+| Projekt | Kurzbeschreibung | Technologien |
+| --- | --- | --- |
+| **Tierverwaltung** | Verwaltung von Tieren mit Datei-Speicherung und GUI | Java, Swing |
+
 ---
 
 ## 📂 Projekte(in Vorbereitung)
 | Projekt | Kurzbeschreibung | Technologien |
 | --- | --- | --- |
-| **Tierverwaltung** | Verwaltung von Tieren mit Datei-Speicherung und GUI | Java, Swing |
 | **Rechnungs-Tool (Desktop)** | Erstellt TXT/PDF-Rechnungen mit moderner GUI | Java, JavaFX |
 | **Rechnungs-Tool (Web)** | Erstellung und Verwaltung von Rechnungen im Browser | Java, Spring Boot, Thymeleaf |
 | **Inventarverwaltung** | Lagerverwaltung mit Suche/CRUD | C#, WinForms, SQLite |
