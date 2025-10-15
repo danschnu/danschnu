@@ -49,6 +49,7 @@ Besonderes Interesse: **Backend & Datenbanken**.
 | Projekt | Kurzbeschreibung | Technologien |
 | --- | --- | --- |
 | [**Dev-Toolbox (Java)**](https://github.com/danschnu/dev-toolbox-java) | Sammlung von Algorithmen, Utilities, Design-Patterns und Snippets | Java |
+| **Dev-Toolbox (C#)** |  Sammlung von Algorithmen, Utilities, Design-Patterns und Snippets | C# |
 
 ---
 
