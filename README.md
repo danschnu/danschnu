@@ -45,6 +45,13 @@ Besonderes Interesse: **Backend & Datenbanken**.
 
 ---
 
+## 📚 Sammlungen & Vorlagen
+| Projekt | Kurzbeschreibung | Technologien |
+| --- | --- | --- |
+| **Dev-Toolbox (Java)** | Sammlung von Algorithmen, Utilities, Design-Patterns und Snippets | Java |
+
+---
+
 ## 📊 GitHub Stats
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=danschnu&show_icons=true&theme=radical" />
