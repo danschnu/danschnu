@@ -29,7 +29,7 @@ Besonderes Interesse: **Backend & Datenbanken**.
 ## 📂 Projekte
 | Projekt | Kurzbeschreibung | Technologien |
 | --- | --- | --- |
-| **Tierverwaltung** | Verwaltung von Tieren mit Datei-Speicherung und GUI | Java, Swing |
+| [**Tierverwaltung**](https://github.com/danschnu/Tierverwaltung) | Verwaltung von Tieren mit Datei-Speicherung und GUI | Java, Swing |
 
 ---
 
@@ -48,7 +48,7 @@ Besonderes Interesse: **Backend & Datenbanken**.
 ## 📚 Sammlungen & Vorlagen
 | Projekt | Kurzbeschreibung | Technologien |
 | --- | --- | --- |
-| **Dev-Toolbox (Java)** | Sammlung von Algorithmen, Utilities, Design-Patterns und Snippets | Java |
+| [**Dev-Toolbox (Java)**](https://github.com/danschnu/dev-toolbox-java) | Sammlung von Algorithmen, Utilities, Design-Patterns und Snippets | Java |
 
 ---
 
