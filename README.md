@@ -1,12 +1,22 @@
 # DS-ITSolutions
 # 👋 Hallo, ich bin Daniel
 
+---
+
 **Fachinformatiker Anwendungsentwicklung**  
 Java · C# · SQL · Datenbankentwicklung  
 Rain (Bayern), Deutschland
 
 [![E-Mail](https://img.shields.io/badge/E--Mail-schnuerch.daniel%40gmail.com-red?logo=gmail&logoColor=white)](mailto:schnuerch.daniel@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/danschnu?style=social)](https://github.com/danschnu)
+
+---
+
+## 🚀 Schnellzugriff
+
+[![Projekte](https://img.shields.io/badge/Zu%20den-Projekten-blue)](#-projekte)
+[![Dev-Toolbox (Java)](https://img.shields.io/badge/Dev%E2%80%91Toolbox-Java-orange)](https://github.com/danschnu/dev-toolbox-java)
+[![Dev-Toolbox (C#)](https://img.shields.io/badge/Dev%E2%80%91Toolbox-C%23-green)](#) <!-- später Link zum C#-Repo -->
 
 ---
 
@@ -62,4 +72,4 @@ Besonderes Interesse: **Backend & Datenbanken**.
 ---
 
 ## 📫 Kontakt
-**E-Mail:** schnuerch.daniel@gmail.com
+[![E-Mail](https://img.shields.io/badge/E--Mail-schnuerch.daniel%40gmail.com-red?logo=gmail&logoColor=white)](mailto:schnuerch.daniel@gmail.com)
