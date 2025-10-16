@@ -44,7 +44,7 @@ Besonderes Interesse: **Backend & Datenbanken**.
 
 ---
 
-## 📂 Projekte(in Vorbereitung)
+## 📂 Projekte (in Vorbereitung)
 | Projekt | Kurzbeschreibung | Technologien |
 | --- | --- | --- |
 | **Rechnungs-Tool (Desktop)** | Erstellt TXT/PDF-Rechnungen mit moderner GUI | Java, JavaFX |
