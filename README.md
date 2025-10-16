@@ -15,7 +15,8 @@ Rain (Bayern), Deutschland
 ## 🚀 Schnellzugriff
 
 [![Projekte](https://img.shields.io/badge/Zu%20den-Projekten-blue)](#-projekte)
-[![Dev-Toolbox (Java)](https://img.shields.io/badge/Dev%E2%80%91Toolbox-Java-orange)](https://github.com/danschnu/dev-toolbox-java)
+[![Dev-Toolbox (Java)](https://img.shields.io/badge/Dev%E2%80%91Toolbox-Java-orange)]([https://github.com/danschnu/dev-toolbox-java](https://github.com/danschnu/dev-toolbox-java/blob/main/README.md
+))
 [![Dev-Toolbox (C#)](https://img.shields.io/badge/Dev%E2%80%91Toolbox-C%23-green)](#) <!-- später Link zum C#-Repo -->
 
 ---
